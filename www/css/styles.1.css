@@ -6844,6 +6844,8 @@ body .wrapper .poster ul {
   /* Приближение из-за подстановки шрифтов */
   text-align: left;
 }
+
+
 body .wrapper .poster .scontainer {
   background-color: #f3f3f3;
   width: 960px;
@@ -6973,3 +6975,4 @@ body footer .container .footer-logo {
 body footer .container .footer-logo a {
   text-decoration: underline;
 }
+
